@@ -6,4 +6,5 @@ whatsapp network
 details for instagram
 jenkins training
 devlopers code
-logic to send-email
+logic to send-email  
+send smr ot welcome message for team
