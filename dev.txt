@@ -10,3 +10,5 @@ logic to send-email
 send smr ot welcome message for team
 write email
 well add whatsapp messages
+sending email when new enquiry is received
+ 
