@@ -8,3 +8,5 @@ jenkins training
 devlopers code
 logic to send-email  
 send smr ot welcome message for team
+write email
+well add whatsapp messages
